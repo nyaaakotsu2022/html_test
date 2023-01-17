@@ -1,0 +1,15 @@
+header {
+    background: #fffacd;
+    }
+
+.flex{
+    display: flex;
+}
+
+.newline{
+    white-space: [pre-wrap];
+}
+
+.wavyline{
+    text-decoration: underline wavy #000000;
+}
